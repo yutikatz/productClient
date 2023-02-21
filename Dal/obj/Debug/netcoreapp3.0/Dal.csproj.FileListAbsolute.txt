@@ -1,0 +1,13 @@
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\bin\Debug\netcoreapp3.0\Dal.deps.json
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\bin\Debug\netcoreapp3.0\Dal.dll
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\bin\Debug\netcoreapp3.0\Dal.pdb
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\bin\Debug\netcoreapp3.0\Interop.OleDbSrc.dll
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.csproj.AssemblyReference.cache
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Interop.OleDbSrc.dll
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.csproj.ResolveComReference.cache
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.AssemblyInfoInputs.cache
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.AssemblyInfo.cs
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.dll
+C:\Users\POSEIDON\Desktop\מסמכים\לחיפוש עבודה\Products\Products\Dal\obj\Debug\netcoreapp3.0\Dal.pdb
